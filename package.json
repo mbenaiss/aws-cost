@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "serverless-plugin-typescript": "^1.1.5"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.391.0"
+  }
+}
