@@ -3,6 +3,10 @@
     "@types/node": "^10.12.18",
     "serverless-plugin-typescript": "^1.1.5"
   },
+  "scripts": {
+    "deploy": "sls deploy",
+    "invoke": "sls invoke local --function cost"
+  },
   "dependencies": {
     "aws-sdk": "^2.391.0"
   }
