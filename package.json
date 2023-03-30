@@ -8,6 +8,6 @@
     "invoke": "sls invoke local --function cost"
   },
   "dependencies": {
-    "aws-sdk": "^2.391.0"
+    "aws-sdk": "^2.814.0"
   }
 }
